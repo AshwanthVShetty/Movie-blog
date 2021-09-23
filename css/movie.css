@@ -1,0 +1,71 @@
+body{
+    
+    background-image: url("/pictures/background/4109c3f1d362403a87c5ebfd4bb382ee.gif");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+table {
+    border-spacing: 10px 10px;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
+.propic{
+    border-radius: 50%;
+    margin: 2px;
+    
+}
+img {
+    border-radius: 8px;
+    box-shadow: 8px 15px 15px rgb(56, 53, 53);
+}
+#spoileralert{
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.plot{
+    /* background-color: rgb(139, 139, 139); */
+    backdrop-filter: blur(50px);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Indie Flower', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.storyline{
+    backdrop-filter: blur(50px);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Indie Flower', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.details{
+
+    color: white;
+    border-radius: 10px;
+    height: 310px;
+    padding: 5px;
+}
+
+h1{
+    font-family: 'Gluten', cursive;
+}
+
+h2{
+    font-family: 'Gluten', cursive;
+}
+
+iframe{
+    border-radius: 8px;
+    box-shadow: 8px 15px 15px rgb(56, 53, 53);
+}
